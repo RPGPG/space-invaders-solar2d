@@ -6,3 +6,5 @@ Controls:
 Arrows - Move left/right
 
 Space - Shoot
+
+Implementation: http://invaders.toadres.pl/
